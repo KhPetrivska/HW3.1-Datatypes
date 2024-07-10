@@ -6,16 +6,16 @@ const bigIntExample = 123422222222222222222222222222222222222n;
 console.log (`2. ${typeof(bigIntExample)} -  ${bigIntExample}`);
 
 const stringExample = "Hello World";
-console.log (`3.${stringExample} -  ${typeof(stringExample)}`);
+console.log (`3. ${stringExample} -  ${typeof(stringExample)}`);
 
 const booleanExample = true;
-console.log (`4.${typeof(booleanExample)} -  ${booleanExample}`);
+console.log (`4. ${typeof(booleanExample)} -  ${booleanExample}`);
 
 const nullExample = null;
-console.log (`5.${typeof(nullExample)} -  ${nullExample}`);
+console.log (`5. ${typeof(nullExample)} -  ${nullExample}`);
 
 const undefinedExample = undefined;
-console.log (`6.${typeof(undefinedExample)} - ${undefinedExample}`);
+console.log (`6. ${typeof(undefinedExample)} - ${undefinedExample}`);
 
 const symbolExample = Symbol('foo');
 console.log(`7. ${typeof(symbolExample)}`);
@@ -28,4 +28,3 @@ const objectExample = {
 };
 console.log (`8. ${typeof(objectExample)}`);
 console.log(objectExample);
-fpvk
