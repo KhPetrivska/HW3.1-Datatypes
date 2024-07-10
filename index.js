@@ -6,7 +6,7 @@ const bigIntExample = 123422222222222222222222222222222222222n;
 console.log (`2. ${typeof(bigIntExample)} -  ${bigIntExample}`);
 
 const stringExample = "Hello World";
-console.log (`3. ${stringExample} -  ${typeof(stringExample)}`);
+console.log (`3. ${typeof(stringExample)} - ${stringExample}`);
 
 const booleanExample = true;
 console.log (`4. ${typeof(booleanExample)} -  ${booleanExample}`);
